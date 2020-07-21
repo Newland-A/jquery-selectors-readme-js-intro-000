@@ -1,6 +1,6 @@
 // declare your functions here...
 function paragraphSelector(){
-  
+  document.getElementByTagName('p')
 }
 
 function lastImageSelector(){
