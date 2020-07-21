@@ -1,6 +1,6 @@
 // declare your functions here...
 function paragraphSelector(){
-  document.querySelector('p')
+ return document.querySelector('p')
 }
 
 function lastImageSelector(){
